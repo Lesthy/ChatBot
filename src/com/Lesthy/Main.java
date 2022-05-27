@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Hello, I am your chatbot Hannah, I am here to help you answer questions about intro in programming. What would you like to know?");
+        System.out.println("Hello, I am your chat bot Hannah, I am here to help you answer questions about intro in programming. What would you like to know?");
         String chat = scan.nextLine().toLowerCase();
 
         while (true) {
